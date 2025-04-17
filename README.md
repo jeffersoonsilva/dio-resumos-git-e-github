@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Título do Projeto
 
 Uma breve descrição sobre o que esse projeto faz e para quem ele é
@@ -23,4 +22,4 @@ git init
 - [Digital Innovation One]().
 =======
 # dio-resumos-git-e-github
->>>>>>> bd27dc37bfa502de4d21ba93a394630e04213782
+
